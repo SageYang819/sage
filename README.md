@@ -4,7 +4,7 @@ Introduction to software and tools for Data Science. Setup process.
 ## Schedule
 **Lecture:** Monday and Wednesday 9:30am to 11:00am in EME 1153   
 **Lab:** Thursday 1:30pm to 3:30pm in EME 1153  
-**Office Hours:** Tuesday and Thursday 4pm to 15pm in Fipke 303
+**Office Hours:** Tuesday and Thursday 4pm to 5pm in Fipke 303
 
 | Date | Topic | Reading |
 |------------|------------|-----------|
