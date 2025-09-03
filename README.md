@@ -9,7 +9,7 @@ Introduction to software and tools for Data Science. Setup process.
 | Date | Topic | Reading |
 |------------|------------|-----------|
 | 2025-09-03| [Course and Platform Introduction](Lectures/Lecture1) | [GitHub:Cloning](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) |
-| 2025-09-08 | [Data Formats](lectures/Lecture2) |   |
+| 2025-09-08 | Data Formats |   |
 | 2025-09-10 | Introduction to Excel|  |
 | 2025-09-15 | Excel Data Analysis |  |
 | 2025-09-17 | Excel Macros and Automation |  |
