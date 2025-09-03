@@ -273,7 +273,7 @@ You can connect and run queries on the MySQL database on cosc304.ok.ubc.ca. MySQ
 ## Submitting Via GitHub Classroom
 
 To submit the assignment using Git, follow these steps:
-1. Click on [this GitHub invitation link](https://classroom.github.com/a/KR7jzZT7) to automatically create your lab 1 repository.
+1. Click on [this GitHub invitation link](https://classroom.github.com/a/qCBupjhs) to automatically create your lab 1 repository.
 2. Go to the automatically created lab repository, then click the ```Clone or Download``` button. Copy the https link in the dropdown box.
 3. Open Terminal (Mac/Linux) or Git Bash (Windows), and navigate to where you want to create your local copy of the repository.
 4. Run ```git clone <Your https repo link>```. For example, I enter ```git clone https://github.com/MDS-2024-Labs/lab-1-adajius.git```. You will be prompted to enter your GitHub username and password.
